@@ -47,6 +47,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- Website - [Iskelo](github.com/Iskelo](https://github.com/Iskelo)
+- Website - [Iskelo](https://github.com/Iskelo)
 - Frontend Mentor - [@Iskelo](https://www.frontendmentor.io/profile/Iskelo)
 
